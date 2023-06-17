@@ -109,7 +109,7 @@ const Photos = () => {
                             style={{
                                 width: "100%",
                                 textAlign: "center",
-                                marginTop: "20px",
+                                marginTop: "90px",
                             }}
                         >
                             Loading...
